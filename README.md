@@ -1,6 +1,4 @@
-# hello-world
-Learning how to use Github
+# ChocoHub
 
-Hello humans!
-
-I love coffee and want to code on a coffee rush. I want projects in here.
+Webite for workshops on how to make your own Chocolate!
+Created using Bootstrap 4.
