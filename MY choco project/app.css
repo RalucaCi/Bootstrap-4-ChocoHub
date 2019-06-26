@@ -1,0 +1,71 @@
+body {
+	background: #ede0de;
+	font-family: 'Amatic SC', cursive;
+}
+
+.content {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+h2 {
+	color:#b77166;
+	font-weight: 400;
+	font-size: 2.5rem;
+}
+
+.redish h2 {
+	color:#b77166;
+	font-weight:bold;
+	font-size: 2.5rem;
+}	
+
+.redish p{
+	color: #bc726b;
+	font-weight: 300;
+	font-size: 2rem;
+	line-height: 2;
+}
+
+#mainNavbar {
+	font-size: 3rem;
+	font-weight: 200;
+}
+
+#mainNavbar .navbar-brand {
+	color: #b77166;
+	font-size: 3.5rem;
+	font-weight: 500;
+}
+
+#mainNavbar .nav-link {
+	color: white;
+}
+#mainNavbar .nav-link:hover {
+	color: #b77166;
+}
+
+.redish span {
+	color: white;
+	font-size: 3.5rem;
+}
+
+#headingGroup h1 {
+	color: #b77166;
+	font-weight: 600;
+	font-size: 5rem;
+}
+
+.navbar.scrolled{
+	background: #e8cbc7;
+	/*for the nav to fade into the new color in mseconds or seconds:*/
+	transition: background 500ms;
+}
+
+@media (max-width: 960px){
+	#headingGroup h1 {
+	font-weight: 100;
+	font-size: 3rem;
+	}
+
+}
